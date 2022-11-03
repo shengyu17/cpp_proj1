@@ -7,8 +7,10 @@ int main()
     float d = 4.0;
     float e = 5.0;
     double f = 6.0;
+    double f = 7.0;
     double g = 7.0;
     double h = 10.0;
+
   
     return 0;
 }
